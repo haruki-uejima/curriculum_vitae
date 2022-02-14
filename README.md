@@ -18,10 +18,10 @@
 ## スキル
 |key|value|
 |----|----|
-|AWS|VPC / S3 / Cloud Front / ELB / EC2 / ECS / Fargate / CodePipeline(Blue/Green Deployment) / Route53 / IAM / RDS(MySQL) / Aurora(MySQL) / CloudFormation / CloudWatch / VPC Peering / VPC Endpoint / Lambda|
-|言語|Java / VB.NET / C# / JavaScript / TypeScript / Ruby / Python
-|RDB|MySQL / PostgreSQL
-|SaaS/PaaS|GitHub / BitBucket|
+|AWS|VPC / S3 / Cloud Front / ELB / EC2 / ECS / Fargate / CodePipeline(Blue/Green Deployment) / Route53 / IAM / RDS(MySQL) / Aurora(MySQL) / CloudFormation / CloudWatch / VPC Peering / VPC Endpoint / Lambda / |
+|言語|Java / VB.NET / C# / JavaScript / TypeScript / Ruby / Python / |
+|RDB|MySQL / PostgreSQL / |
+|SaaS/PaaS|GitHub / BitBucket / |
 |その他|Docker / Capistrano / |
 
 ※ 実務で使用したもののみを記載しています。
