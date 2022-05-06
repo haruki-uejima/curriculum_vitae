@@ -30,7 +30,7 @@
 |言語|Java / JavaScript / TypeScript / Ruby /
 |RDB|MySQL / PostgreSQL / |
 |SaaS/PaaS|GitHub / BitBucket / |
-|その他|Docker / Capistrano / |
+|その他|Docker / Capistrano / Slack / Backlog / esa|
 
 ※ 実務で使用したもののみを記載しています。
 
