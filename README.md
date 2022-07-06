@@ -8,14 +8,8 @@
 |住所|東京都|
 |Twitter|[@haruki_uejima](https://twitter.com/haruki_uejima)|
 |Qiita|[@haruki_uejima](https://qiita.com/haruki_uejima) (Contributions数 380超)|
-|Zenn|[@haruki_uejima](https://zenn.dev/haruki_uejima)|
 |Wantedly|<https://www.wantedly.com/id/haruki_uejima> (ストーリー 4件)|
 |保有資格|2021年06月 : AWS Certified SysOps Administrator - Associate<br/>2021年04月 : AWS Certified Developer - Associate<br/>2021年03月 : AWS Certified Solutions Architect - Associate<br/>2020年12月 : Linux Professional Institute LPIC-1<br/>2020年10月 : AWS Certified Cloud Practitioner<br/>2020年03月 : ITパスポート試験<br/>2018年03月 : 日商簿記検定 3級|
-
-## 職務経歴
-
-- 株式会社アップロード（2020年04月～2021年08月）
-- 株式会社OKAN（2021年09月～現在）
 
 ## 概要
 
