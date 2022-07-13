@@ -21,10 +21,10 @@
 |key|value|
 |----|----|
 |AWS|VPC / S3 / CloudFront / ELB / EC2 / ECS / Fargate / CodePipeline(Blue/Green Deployment) / Route53 / IAM / RDS(MySQL) / Aurora(MySQL) / CloudFormation / CloudWatch / VPC Peering / VPC Endpoint /
-|言語|Java / JavaScript / TypeScript / Ruby / React /
+|言語|Java / JavaScript / TypeScript / Ruby /
 |RDB|MySQL / PostgreSQL / |
 |SaaS/PaaS|GitHub / BitBucket / |
-|その他|Docker / Capistrano / Slack / Backlog / esa /
+|その他|Docker / Slack / Backlog / esa /
 
 ※ 実務で使用したもののみを記載しています。
 
